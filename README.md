@@ -1,5 +1,3 @@
-Git token: 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
-
 GetMapping Request: http://localhost:8081/producer/sendMessage/sazid
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
